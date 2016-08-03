@@ -1,7 +1,6 @@
 import pygame
 import time
 import RPi.GPIO as GPIO
-import disdik
 
 # -----------------Define Variables---------------------
 
