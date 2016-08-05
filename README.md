@@ -5,4 +5,4 @@ The goal is to have the robot use two webcams to record & patch together 3D vide
 Another goal is to mount the webcams on a servo motor to give the robot the ability to look in different directions.
 
 
-This repository will hold all the source code/relevant commands for out project.
+This repository will hold all the source code/relevant commands for our project.
